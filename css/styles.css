@@ -23,7 +23,7 @@ section {
   margin: 10px;
 }
 
-#dish1 {
+#d1 {
   float: right;
   background-color: #FFCB87;
   border: 1px solid black;
@@ -33,7 +33,7 @@ section {
   font-size: 1.25em;
 }
 
-#dish2 {
+#d2 {
   float: right;
   background-color: #FFCB87;
   border: 1px solid black;
@@ -43,7 +43,7 @@ section {
   font-size: 1.25em;
 }
 
-#dish3 {
+#d3 {
   float: right;
   background-color: #FFCB87;
   border: 1px solid black;
